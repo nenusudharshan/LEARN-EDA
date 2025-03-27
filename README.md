@@ -21,11 +21,11 @@ It helps to:
 | Day | Topic                              | Status  |
 |:---:|:-----------------------------------|:-------:|
 |  1  | Summary Statistics                | ✅ Done |
-|  2  | Handling Missing Values           | 🔜 Soon |
-|  3  | Outlier Detection                 | 🔜 Soon |
-|  4  | Categorical Variable Encoding    | 🔜 Soon |
-|  5  | Feature Scaling                   | 🔜 Soon |
-|  6  | Data Visualization Techniques     | 🔜 Soon |
+|  2  | Handling Missing Values           | ✅ Done |
+|  3  | Outlier Detection                 | ✅ Done |
+|  4  | Categorical Variable Encoding    | ✅ Done |
+|  5  | Feature Scaling                   | ✅ Done |
+|  6  | Data Visualization Techniques     | ✅ Done|
 |  7  | Hands-on EDA Project              | 🔜 Soon |
 
 ---
